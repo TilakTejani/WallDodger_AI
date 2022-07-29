@@ -1,0 +1,38 @@
+
+body{
+    background-color: rgb(20, 23, 43);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    flex-direction: column;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+
+#myInput {
+    margin: 0px;
+}
+#gameCanvas{
+    background-color: powderblue;
+    color: rgb(27, 66, 79);
+    margin: 10px;
+}
+
+#visCanvas{
+    background-color: rgb(22, 47, 111);
+    border: 4px solid powderblue;
+}
+
+h1{
+    color: powderblue;
+    margin: 5px;
+    text-align: center;
+}
