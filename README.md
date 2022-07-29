@@ -1,4 +1,4 @@
-# DodgeBall_NeuralNetwork_JS
+# WallDodger_AI
 
 An automated game in which due to gravity ball kepts falling down but on pressing space "jump" is programmed.
 
